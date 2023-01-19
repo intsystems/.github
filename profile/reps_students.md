@@ -4,6 +4,7 @@
 Student | Work title |Work title (English)|Link|Level|
 | --- | --- | --- | --- | --- | 
 [Molozhavenko Alexander](https://github.com/intsystems/Molozhavenko-BS-Thesis) | Решение блочной многомерной задачи на собственные значения |Block multidimensional eigenvalues task solution| [Molozhavenko-BS-Thesis](https://github.com/intsystems/Molozhavenko-BS-Thesis) |  Bachelor |
+[Kornilov Nikita](https://github.com/intsystems/Kornilov-BS-Thesis) | Безградиентные методы оптимизации для решения выпуклых стохастических задач с бесконечным шумом |Gradient-free methods for stochastic optimization problems with infinite noise| [Kornilov-BS-Thesis](https://github.com/intsystems/Kornilov-BS-Thesis) |  Bachelor |
 
 ## Group 874 (2021—2024)
 Student | Work title |Work title (English)|Link|Level|
