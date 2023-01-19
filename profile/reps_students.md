@@ -6,6 +6,7 @@ Student | Work title |Work title (English)|Link|Level|
 [Kornilov Nikita](https://github.com/intsystems/Kornilov-BS-Thesis) | Безградиентные методы оптимизации для решения выпуклых стохастических задач с бесконечным шумом |Gradient-free methods for stochastic optimization problems with infinite noise| [Kornilov-BS-Thesis](https://github.com/intsystems/Kornilov-BS-Thesis) |  Bachelor |
 [Molozhavenko Alexander](https://github.com/intsystems/Molozhavenko-BS-Thesis) | Решение блочной многомерной задачи на собственные значения |Block multidimensional eigenvalues task solution| [Molozhavenko-BS-Thesis](https://github.com/intsystems/Molozhavenko-BS-Thesis) |  Bachelor |
 [Lukyanenko Ivan](https://github.com/intsystems/Lukyanenko-BS-Thesis) | Выявление манипуляций в новостях |Manipulation Detection in Fake News| [Lukyanenko-BS-Thesis](https://github.com/intsystems/Lukyanenko-BS-Thesis) |  Bachelor |
+[Zharov Georgiy](https://github.com/intsystems/Zharov-BS-Thesis) | Поиск связи фрагментов манипуляций с именованными сущностями в текстах |Searching for links between fragments of manipulations with named entities in texts| [Zharov-BS-Thesis](https://github.com/intsystems/Zharov-BS-Thesis) |  Bachelor |
 
 ## Group 874 (2021—2024)
 Student | Work title |Work title (English)|Link|Level|
