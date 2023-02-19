@@ -2,6 +2,7 @@
 ## 2023
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
+| - | Итеративное улучшение тематической модели с обратной связью от пользователя | [2023-Project-131](https://github.com/intsystems/2023-Project-131) | [Alexey Gorbulev](https://github.com/mr3vial) |
 | Metric analysis of deep network space parameters | - | [2023-Project-141](https://github.com/intsystems/2023-Project-141) | [Ernest Nasyrov](https://github.com/2001092236) |
 
 
