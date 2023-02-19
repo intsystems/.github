@@ -2,7 +2,7 @@
 ## 2023
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
-| Metric analysis of deep network space parameters | - | [2023-Project-141]([https://github.com/intelligent-Systems-Phystech/2021-Project-17](https://github.com/intsystems/2023-Project-141)) | [Ernest Nasyrov](https://github.com/2001092236) |
+| Metric analysis of deep network space parameters | - | [2023-Project-141](https://github.com/intsystems/2023-Project-141) | [Ernest Nasyrov](https://github.com/2001092236) |
 
 
 
