@@ -4,8 +4,8 @@ Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
 | - | Итеративное улучшение тематической модели с обратной связью от пользователя | [2023-Project-131](https://github.com/intsystems/2023-Project-131) | [Alexey Gorbulev](https://github.com/mr3vial) |
 | Metric analysis of deep network space parameters | - | [2023-Project-141](https://github.com/intsystems/2023-Project-141) | [Ernest Nasyrov](https://github.com/2001092236) |
-| Project for "My first scientific paper" course. Problem "Stochastic Newton with arbitrary sampling" | Проект для курса "Моя первая научная статья". Задача "Стохастический метод Ньютона с произвольным семплингом" | [2023-Project-136](https://github.com/intsystems/2023-Project-136) | [Denis Shveykin](https://github.com/Dentikka)
-
+| Project for "My first scientific paper" course. Problem "Stochastic Newton with arbitrary sampling" | Проект для курса "Моя первая научная статья". Задача "Стохастический метод Ньютона с произвольным семплингом" | [2023-Project-136](https://github.com/intsystems/2023-Project-136) | [Denis Shveykin](https://github.com/Dentikka) |
+| Binary Neural Networks. Lossless picture quality for binary neural networks in pixel-level tasks | Бинарные нейронные сети. Применение в задачах img-to-img без потери качества | [2023-Project-137](https://github.com/intsystems/2023-Project-137) | [Kirill Ovcharenko](https://github.com/kovcharenko51) |
 
 
 ## 2021
