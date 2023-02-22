@@ -6,7 +6,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Project for "My first scientific paper" course. Problem "Stochastic Newton with arbitrary sampling" | Проект для курса "Моя первая научная статья". Задача "Стохастический метод Ньютона с произвольным семплингом" | [2023-Project-136](https://github.com/intsystems/2023-Project-136) | [Denis Shveykin](https://github.com/Dentikka) |
 | Binary Neural Networks. Lossless picture quality for binary neural networks in pixel-level tasks | Бинарные нейронные сети. Применение в задачах img-to-img без потери качества | [2023-Project-137](https://github.com/intsystems/2023-Project-137) | [Kirill Ovcharenko](https://github.com/kovcharenko51) |
 | Metric analysis of deep network space parameters | - | [2023-Project-141](https://github.com/intsystems/2023-Project-141) | [Ernest Nasyrov](https://github.com/2001092236) |
-| Dimensionality reduction for generative modeling using invertible models | Снижение размерности пространства в задаче генеративного моделирования с помощью обратимых моделей | [2023-Project-122](https://github.com/36ova/2023-Project-122) | [Lidia Troeshestova](https://github.com/36ova) |
+| - | Снижение размерности пространства в задаче генеративного моделирования с помощью обратимых моделей | [2023-Project-122](https://github.com/36ova/2023-Project-122) | [Lidia Troeshestova](https://github.com/36ova) |
 
 
 ## 2021
