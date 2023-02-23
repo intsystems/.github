@@ -7,6 +7,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Binary Neural Networks. Lossless picture quality for binary neural networks in pixel-level tasks | Бинарные нейронные сети. Применение в задачах img-to-img без потери качества | [2023-Project-137](https://github.com/intsystems/2023-Project-137) | [Kirill Ovcharenko](https://github.com/kovcharenko51) |
 | Metric analysis of deep network space parameters | - | [2023-Project-141](https://github.com/intsystems/2023-Project-141) | [Ernest Nasyrov](https://github.com/2001092236) |
 | Dimensionality reduction for generative invertible models | Снижение размерности пространства в задаче генеративного моделирования с помощью обратимых моделей | [2023-Project-122](https://github.com/intsystems/2023-Project-122) | [Lidia Troeshestova](https://github.com/36ova) |
+| Distillation of knowledge in deep networks and alignment of model structures | Дистилляция знаний в глубоких сетях и выравнивание структур моделей | [2023-Project-115](https://github.com/intsystems/2023-Project-115) | [Mikhail Oleinik](https://github.com/Ganddalf) |
 
 
 ## 2021
