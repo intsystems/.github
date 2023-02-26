@@ -11,6 +11,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Distillation of knowledge in deep networks and alignment of model structures | Дистилляция знаний в глубоких сетях и выравнивание структур моделей | [2023-Project-115](https://github.com/intsystems/2023-Project-115) | [Mikhail Oleinik](https://github.com/Ganddalf) |
 | Post Training Quantization. Flexible continuous modification for SOTA post training quantization methods to make them lossless | | [2023-Project-138](https://github.com/intsystems/2023-Project-138) | [Sedova Anna](https://github.com/Anya1234) |
 | Adaptation of the architecture of the deep learning model with performance control | Адаптация архитектуры модели глубокого обучения с контролем эксплуатационных характеристик | [2023-Project-140](https://github.com/intsystems/2023-Problem-140) | [Borodin Savely](https://github.com/BorONE) |
+| Project for M1P, task 112: Modeling of FMRI readings from a video shown to a person. | Проект для курса «Моя первая научная статья», задача 112: Моделирование показания FMRI по видео, показанному человеку. | [2023-Project-112](https://github.com/intsystems/2023-Project-112) | [Kiselev Nikita](https://github.com/nekitbrain) |
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
