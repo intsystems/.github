@@ -15,6 +15,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Project for M1P, task 112: Modeling of FMRI readings from a video shown to a person. | Проект для курса «Моя первая научная статья», задача 112: Моделирование показания FMRI по видео, показанному человеку. | [2023-Project-112](https://github.com/intsystems/2023-Project-112) | [Kiselev Nikita](https://github.com/nekitbrain) |
 | Project for M1P, task 112: Modeling of FMRI readings from a video shown to a person. | Проект для курса «Моя первая научная статья», задача 112: Моделирование показания FMRI по видео, показанному человеку. | [2023-Project-112](https://github.com/intsystems/2023-Project-112) | [Dorin Daniil](https://github.com/Daniilmipt007) 
 | Project for M1P, task 129: Spatiotemporal forecasting with convolutions and tensor decomposition. | Проект для курса «Моя первая научная статья», задача 129: Пространственно-временное прогнозирование с помощью сверточных сетей и тензорных разложений | [2023-Project-129](https://github.com/intsystems/2023-Project-129) | [Maxim Gorishniy](https://github.com/magorx) |
+| Differentiable algorithm of searching for ensembles of deep learning models with diversity control. | Дифференцируемый алгоритм поиска ансамблей моделей глубокого обучения с контролем разнообразия. | [2023-Project-120](https://github.com/intsystems/2023-Project-120) | [Babkin Petr](https://github.com/petr-parker) |
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
