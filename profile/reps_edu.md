@@ -12,8 +12,9 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Post Training Quantization. Flexible continuous modification for SOTA post training quantization methods to make them lossless | | [2023-Project-138](https://github.com/intsystems/2023-Project-138) | [Sedova Anna](https://github.com/Anya1234) |
 | Adaptation of the architecture of the deep learning model with performance control | Адаптация архитектуры модели глубокого обучения с контролем эксплуатационных характеристик | [2023-Project-140](https://github.com/intsystems/2023-Problem-140) | [Borodin Savely](https://github.com/BorONE) |
 | Project for M1P, task 112: Modeling of FMRI readings from a video shown to a person. | Проект для курса «Моя первая научная статья», задача 112: Моделирование показания FMRI по видео, показанному человеку. | [2023-Project-112](https://github.com/intsystems/2023-Project-112) | [Kiselev Nikita](https://github.com/nekitbrain) |
-| Project for M1P, task 112: Modeling of FMRI readings from a video shown to a person. | Проект для курса «Моя первая научная статья», задача 112: Моделирование показания FMRI по видео, показанному человеку. | [2023-Project-112](https://github.com/intsystems/2023-Project-112) | [Dorin Daniil](https://github.com/Daniilmipt007) |
-| Model distillation on multi-domained samples | Дистилляция моделей на многодоменных выборках.| [2023-Project-139](https://github.com/intsystems/2023-Project-139) | [Orlov Alexey](https://github.com/bidinbi) |
+| Project for M1P, task 112: Modeling of FMRI readings from a video shown to a person. | Проект для курса «Моя первая научная статья», задача 112: Моделирование показания FMRI по видео, показанному человеку. | [2023-Project-112](https://github.com/intsystems/2023-Project-112) | [Dorin Daniil](https://github.com/Daniilmipt007) 
+| Project for M1P, task 143: Methods with preconditioning with weight decay regularization. | Проект для курса «Моя первая научная статья», задача 143: - | [2023-Project-143](https://github.com/kreininmv/2023-Project-143) | [Kreinin Matvei](https://github.com/kreininmv) 
+|
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
