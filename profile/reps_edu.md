@@ -20,6 +20,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Automatic selection of terms for thematic modeling. | Автоматическое выделение терминов для тематического моделирования. | [2023-Project-130](https://github.com/intsystems/2023-Project-130) | [Nikitina Maria](https://github.com/NikitinaMaria) |
 |-| Ускорение семплирования из диффузионных моделей с использованием состязательных сетей для курса m1p| [2023-Project-124](https://github.com/intsystems/2023-Project-124) | [Okhotnikov Nikita](https://github.com/Wayfarer123) |
 |Project for M1P, task 119: On the problem of repeated supervised learning|Проект для курса Моя 1 научная статья, задача 119: Анализ динамики многократного обучения| [2023-Project-119](https://github.com/intsystems/2023-Project-119) | [Vepricov Andrey](https://github.com/Vepricov)|
+|Proximity Measures in Self-Supervised Learning Problems| Меры близости в задачах self-supervised learning| [2023-Project-135](https://github.com/VidanovAndrew/2023-Project-135)| [Vidanov Andrew](https://github.com/VidanovAndrew)
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
