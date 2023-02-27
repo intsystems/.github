@@ -19,6 +19,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Differentiable algorithm of searching for ensembles of deep learning models with diversity control. | Дифференцируемый алгоритм поиска ансамблей моделей глубокого обучения с контролем разнообразия. | [2023-Project-120](https://github.com/intsystems/2023-Project-120) | [Babkin Petr](https://github.com/petr-parker) |
 | Automatic selection of terms for thematic modeling. | Автоматическое выделение терминов для тематического моделирования. | [2023-Project-130](https://github.com/intsystems/2023-Project-130) | [Nikitina Maria](https://github.com/NikitinaMaria) |
 |-| Ускорение семплирования из диффузионных моделей с использованием состязательных сетей для курса m1p| [2023-Project-124](https://github.com/intsystems/2023-Project-124) | [Okhotnikov Nikita](https://github.com/Wayfarer123) |
+|Project for M1P, task 119: On the problem of repeated supervised learning|Проект для курса Моя 1 научная статья, задача 119: Анализ динамики многократного обучения| [2023-Project-119](https://github.com/intsystems/2023-Project-119) | [Vepricov Andrey](https://github.com/Vepricov)|
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
