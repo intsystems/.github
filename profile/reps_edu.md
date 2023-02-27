@@ -18,7 +18,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Project for M1P, task 129: Spatiotemporal forecasting with convolutions and tensor decomposition. | Проект для курса «Моя первая научная статья», задача 129: Пространственно-временное прогнозирование с помощью сверточных сетей и тензорных разложений | [2023-Project-129](https://github.com/intsystems/2023-Project-129) | [Maxim Gorishniy](https://github.com/magorx) |
 | Differentiable algorithm of searching for ensembles of deep learning models with diversity control. | Дифференцируемый алгоритм поиска ансамблей моделей глубокого обучения с контролем разнообразия. | [2023-Project-120](https://github.com/intsystems/2023-Project-120) | [Babkin Petr](https://github.com/petr-parker) |
 | Automatic selection of terms for thematic modeling. | Автоматическое выделение терминов для тематического моделирования. | [2023-Project-130](https://github.com/intsystems/2023-Project-130) | [Nikitina Maria](https://github.com/NikitinaMaria) |
-|-| Ускорение семплирования из диффузионных моделей с использованием состязательных сетей | [2023-Project-124](https://github.com/intsystems/2023-Project-124) | [Okhotnikov Nikita](https://github.com/Wayfarer123) |
+|-| Ускорение семплирования из диффузионных моделей с использованием состязательных сетей для курса m1p| [2023-Project-124](https://github.com/intsystems/2023-Project-124) | [Okhotnikov Nikita](https://github.com/Wayfarer123) |
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
