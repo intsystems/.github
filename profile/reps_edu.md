@@ -26,6 +26,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 |Project for M1P, task 119: On the problem of repeated supervised learning|Проект для курса Моя 1 научная статья, задача 119: Анализ динамики многократного обучения| [2023-Project-119](https://github.com/intsystems/2023-Project-119) | [Vepricov Andrey](https://github.com/Vepricov)|
 |Proximity Measures in Self-Supervised Learning Problems| Меры близости в задачах self-supervised learning| [2023-Project-135](https://github.com/intsystems/2023-Project-135)| [Vidanov Andrew](https://github.com/VidanovAndrew)
 | Methods with preconditioning with weight decay regularization. | - | [2023-Project-Statkevich](https://github.com/intsystems/2023-Project-Statkevich)| [Statkevich Ekaterina](https://github.com/Statkevich-Katya)
+| Detection of machine-generated fragments in text. | - | [2023-Project-126](https://github.com/intsystems/2023-Project-126)| [Voznyuk Anastasiya](https://github.com/natriistorm)
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
