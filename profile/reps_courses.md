@@ -25,3 +25,4 @@
 | Ratings | - | Finished (as a part of Vadim Strijov's course in 2020) | [Ratings](https://github.com/Intelligent-Systems-Phystech/Ratings) | - | [Vadim Strijov](https://github.com/Strijov) 
 | Start code | - |  Finished (as a part of Vadim Strijov's course in 2018) | [StartCode](https://github.com/Intelligent-Systems-Phystech/StartCode) | - | [Vadim Strijov](https://github.com/Strijov)  
 | Time forecasting | - | Finished (as a part of Vadim Strijov's course in 2020) | [2020-Time-series-forecasting](https://github.com/Intelligent-Systems-Phystech/2020-Time-series-forecasting) | - |[Vadim Strijov](https://github.com/Strijov)
+| Probabilistic topic modeling | Вероятностное тематическое моделирование | Unknown | [ProbTM](https://github.com/intsystems/ProbTM) | - |
