@@ -1,7 +1,7 @@
 # Manual for repository creation
 ## Repository types
 Before creating a new repository, please decide on the type of repository:
-* [Repository for education courses (either with your materials or students' materials)](#repository-for-course)
+* [Repository for education courses](#repository-for-course)
 * [Repository for educational projects (for example repositories for projects during M1P course)](#repository-for-educational-project)
 * [Repository for research projects](#repository-for-research-projects)
 * [Repository for student graduate works](#repository-for-graduate-works)
