@@ -2,7 +2,7 @@
 ## Active projects
 |Project name|Project name (Russian)|Status|Link|External links| Contributors |
 | --- | --- | --- | --- | --- | --- |
-| Concordand neural architecture search with model complexity control | Выбор согласованных моделей с контролем сложности | Active | [Concord-NAS](https://github.com/intelligent-Systems-Phystech/Concord-NAS) | - | [Konstantin Iakovlev](https://github.com/Konstantin-Iakovlev), [Oleg Bakhteev](https://github.com/bahleg)|
+| Concordand neural architecture search with model complexity control | Выбор согласованных моделей с контролем сложности | Active (moved to another repo, ping @Konstantin-Iakovlev) | [Concord-NAS](https://github.com/intelligent-Systems-Phystech/Concord-NAS) | - | [Konstantin Iakovlev](https://github.com/Konstantin-Iakovlev), [Oleg Bakhteev](https://github.com/bahleg)|
 
 
 ## Finished projects
