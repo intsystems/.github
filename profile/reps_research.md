@@ -2,12 +2,13 @@
 ## Active projects
 |Project name|Project name (Russian)|Status|Link|External links| Contributors |
 | --- | --- | --- | --- | --- | --- |
-| Concordand neural architecture search with model complexity control | Выбор согласованных моделей с контролем сложности | Active (moved to another repo, ping @Konstantin-Iakovlev) | [Concord-NAS](https://github.com/intelligent-Systems-Phystech/Concord-NAS) | - | [Konstantin Iakovlev](https://github.com/Konstantin-Iakovlev), [Oleg Bakhteev](https://github.com/bahleg)|
+
 
 
 ## Finished projects
 |Project name|Project name (Russian)|Status|Link|External links| Contributors |
 | --- | --- | --- | --- | --- | --- |
+| Anti-Distillation: Knowledge Transfer from a Simple Model to the Complex One | - | In conference proceedings (ISP RAS) |[Anti-distillation](https://github.com/intsystems/anti-distillation) | [Paper](https://ieeexplore.ieee.org/iel7/10076791/10076264/10076855.pdf?casa_token=yBIuiwpk85kAAAAA:EtMhU6BzbT8s7jfDofODhLpQ2K5hLJkXHbvbIZLCb0oK_OKON-ZagBgyIXoetTyx2GnYH70q1A) | [Kseniia Petrushina](https://github.com/pkseniya), [Oleg Bakhteev](https://github.com/bahleg), [Andrii Hraboviy](https://github.com/andriygav), [Vadim Strijov](https://github.com/Strijov)
 | Knowledge distillation for models with heterogenous layers | Дистилляция разнослойных моделей |  Published in journal (AiT) |[HeteroLayerDistillation](https://github.com/intsystems/HeteroLayerDistillation) | [Paper](https://link.springer.com/article/10.1134/S00051179220100071) | [Maria Gorpinich](https://github.com/gorpinich-m), [Oleg Bakhteev](https://github.com/bahleg)
 |Neural architecture search with structure complexity control| - | In conference proceedings (AIST) | [DARTS-CC](https://github.com/intsystems/DARTS-CC) | [Paper](https://easychair.org/publications/preprint_download/H5MC) | [Konstantin Yakovlev](https://github.com/Konstantin-Iakovlev), [Olga Grebenkova](https://github.com/GrebenkovaO), [Oleg Bakhteev](https://github.com/bahleg), [Vadim Strijov](https://github.com/Strijov)|
 | Deep learning model selection with parametric complexity control | - | In conference proceedings (ICAART) | [VarHyperNet](https://github.com/intsystems/VarHyperNet) | [Paper](https://www.scitepress.org/Papers/2023/116269/116269.pdf) | [Olga Grebenkova](https://github.com/GrebenkovaO), [Oleg Bakhteev](https://github.com/bahleg) |
@@ -19,7 +20,7 @@
 
 ## Postponed projects
 |Project name|Project name (Russian)|Status|Link|External links| Contributors |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- || Concordand neural architecture search with model complexity control | Выбор согласованных моделей с контролем сложности | Active (moved to another repo, ping @Konstantin-Iakovlev) | [Concord-NAS](https://github.com/intelligent-Systems-Phystech/Concord-NAS) | - | [Konstantin Iakovlev](https://github.com/Konstantin-Iakovlev), [Oleg Bakhteev](https://github.com/bahleg)|
 | Heterogenous knowledge distillation | Дистилляция разнородных моделей | Finished as a Mater thesis | [HeterogenKD](https://github.com/intelligent-Systems-Phystech/HeterogenKD) | - | [Alexander Kolesov](https://github.com/Kolessov), [Oleg Bakhteev](https://github.com/bahleg)|
 | Brain-computer interface with Functional data analysis | - |  Postponed | [BCI-FDA](https://github.com/Intelligent-Systems-Phystech/BCI-FDA) | - | [Nadezhda Alsahanova](https://github.com/NadezhdaAlsahanova), [Roman Isachenko](https://github.com/r-isachenko) |
 | Coordination of mobile sensor data collection | - | Unknown, maybe postponed | [MobileSensorData](https://github.com/Intelligent-Systems-Phystech/MobileSensorData) | - | [agaltseva (???)](agaltseva), [livenrlty (???)](https://github.com/livenrlty), [Vadim Strijov](https://github.com/Strijov) |
