@@ -24,6 +24,7 @@ Student | Work title |Work title (English)|Link|Level|
 [Aleksandra Khar](https://github.com/Aleksandra-Khar)| Динамическое ценообразвание с помощью Томсонского Сэмплирования | - |  [Khar-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Khar-BS-Thesis) |  Bachelor |
 | [Anastasiia Filippova](https://github.com/nastya236) | Методы анализа движений человека на основе показаний сигналов с сенсоров | - | [Filippova-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Filippova-BS-Thesis) | Bachelor |
 [Andrey Filatov](https://github.com/anvilarth) |  Быстрый оптимизация мультизадачных моделей | - | [Filatov-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Filatov-BS-Thesis) | Bachelor |
+[Andrey Filatov](https://github.com/anvilarth) |  - | - | [Filatov-MS-Thesis](https://github.com/intsystems/Filatov-MS-Thesis) | Master |
 | [Anton Bishuk](https://github.com/ApostolAnt) | Применение активного обучения к графовым моделям на примере оценки рисков распространения эпидемии | - | [Bishuk-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Bishuk-BS-Thesis) | Bachelor |
 | [Anton Bishuk](https://github.com/ApostolAnt) | - | - | [Bishuk-MS-Thesis](https://github.com/Intelligent-Systems-Phystech/Bishuk-MS-Thesis), [Bishuk-MS-Thesis-public](https://github.com/Intelligent-Systems-Phystech/Bishuk-MS-Thesis-public) | Master |
 [Vladimir Zholobov](https://github.com/ZVlaDreamer) |  Методы типа градиентного клиппинга для задач на больших данных  | - | [Zholobov-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Zholobov-BS-Thesis) | Bachelor |
@@ -32,10 +33,13 @@ Student | Work title |Work title (English)|Link|Level|
 [Nikolay Savelev](https://github.com/Nikolay-Savelev) | Структурированное ценообразвание для взаимозаменяемых товаров | - | [Savelev-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Savelev-BS-Thesis) | Bachelor |
 [Viacheslav Shokorov](https://github.com/vshokorov) | Оценка параметров вероятностной модели в задаче доменной адаптации | - | [Shokorov-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Shokorov-BS-Thesis) | Bachelor |
 [Olga Grebenkova](https://github.com/GrebenkovaO)  | Порождение моделей заданной сложности с использованием байесовских гиперсетей|  - |[Grebenkova-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Grebenkova-BS-Thesis) |  Bachelor |
+[Olga Grebenkova](https://github.com/GrebenkovaO)  | - |  Automatic detection of focal cortical dysplasia with using of Minkowski Networks |[Grebenkova-MS-Thesis](https://github.com/intsystems/Grebenkova-MS-Thesis) |  Master |
 [Rustem Islamov](https://github.com/Rustem-Islamov) | Распределенные методы второго порядка с быстрой скоростью сходимости и компрессией| Distributed Second Order Methods with Fast Rates and Compressed Communication | [Islamov-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Islamov-BS-Thesis) |  Bachelor |
 [Rustem Islamov](https://github.com/Rustem-Islamov) | - | - | [Islamov-Rustem/Master Thesis](https://github.com/Intelligent-Systems-Phystech/Islamov-Rustem/tree/main/Master%20Thesis) |  Master |
 | [Tagir Sattarov](https://github.com/Tagir-Sattarov) | Построение тематических моделей полилогов | - | [Sattarov-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Sattarov-BS-Thesis) | Bachelor |
 [Viktor Pankratov](https://github.com/PankratovViktor) |  Вероятностное тематическое моделирование несбалансированных текстовых коллекций | - | [Pankratov_BS_Thesis](https://github.com/Intelligent-Systems-Phystech/Pankratov_BS_Thesis) | Bachelor |
+[Robert Safiullin](https://github.com/roberts2510) | Модели согласования скрытого пространства в задаче корреляционного анализа| - | [MS Thesis](https://github.com/intsystems/Safiullin-MS-Thesis) | Master |
+[Viktor Pankratov](https://github.com/PankratovViktor) |  - | - | [Pankratov_BS_Thesis](https://github.com/intsystems/Pankratov-MS-Thesis) | Master |
 
 ## Group 674 (2019—2022)
 Student| Work title |Work title (English)|Link|Level|
