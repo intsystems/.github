@@ -20,7 +20,8 @@
 
 ## Postponed projects
 |Project name|Project name (Russian)|Status|Link|External links| Contributors |
-| --- | --- | --- | --- | --- | --- || Concordand neural architecture search with model complexity control | Выбор согласованных моделей с контролем сложности | Active (moved to another repo, ping @Konstantin-Iakovlev) | [Concord-NAS](https://github.com/intelligent-Systems-Phystech/Concord-NAS) | - | [Konstantin Iakovlev](https://github.com/Konstantin-Iakovlev), [Oleg Bakhteev](https://github.com/bahleg)|
+| --- | --- | --- | --- | --- | --- | 
+Concordand neural architecture search with model complexity control | Выбор согласованных моделей с контролем сложности | Active (moved to another repo, ping @Konstantin-Iakovlev) | [Concord-NAS](https://github.com/intelligent-Systems-Phystech/Concord-NAS) | - | [Konstantin Iakovlev](https://github.com/Konstantin-Iakovlev), [Oleg Bakhteev](https://github.com/bahleg)|
 | Heterogenous knowledge distillation | Дистилляция разнородных моделей | Finished as a Mater thesis | [HeterogenKD](https://github.com/intelligent-Systems-Phystech/HeterogenKD) | - | [Alexander Kolesov](https://github.com/Kolessov), [Oleg Bakhteev](https://github.com/bahleg)|
 | Brain-computer interface with Functional data analysis | - |  Postponed | [BCI-FDA](https://github.com/Intelligent-Systems-Phystech/BCI-FDA) | - | [Nadezhda Alsahanova](https://github.com/NadezhdaAlsahanova), [Roman Isachenko](https://github.com/r-isachenko) |
 | Coordination of mobile sensor data collection | - | Unknown, maybe postponed | [MobileSensorData](https://github.com/Intelligent-Systems-Phystech/MobileSensorData) | - | [agaltseva (???)](agaltseva), [livenrlty (???)](https://github.com/livenrlty), [Vadim Strijov](https://github.com/Strijov) |
