@@ -28,6 +28,8 @@ Repository description|Repository description (Russian)|Link| Contributors |
 |Proximity Measures in Self-Supervised Learning Problems| Меры близости в задачах self-supervised learning| [2023-Project-135](https://github.com/intsystems/2023-Project-135)| [Vidanov Andrew](https://github.com/VidanovAndrew)
 | Methods with preconditioning with weight decay regularization. | - | [2023-Project-Statkevich](https://github.com/intsystems/2023-Project-Statkevich)| [Statkevich Ekaterina](https://github.com/Statkevich-Katya)
 | - | Дистилляция моделей и данных | [2023-Project-134](https://github.com/intsystems/2023-Project-134) | [Barinov Nikita](https://github.com/rybinsky) |
+| - | Аппроксимации FMRI-снимков мозга по просмотренному видоряду | [Link](https://github.com/intsystems/CreationOfIntelligentSystems_video_fMRI) | [Polina Barabanshikova](https://github.com/pollinab), [Dmitriy Protasov](https://github.com/Vosatorp), [Nikita Shulgan](https://github.com/NikitaShulgan)
+| fMRI data approximation from sound stream  | - | [Link](https://github.com/intsystems/CreationOfIntelligentSystems_sound_fMRI) | [Gregory Ksenofontov](https://github.com/gregkseno), [Sergey Skorik](https://github.com/Skorik99), [Konstantin Yakovlev](https://github.com/Konstantin-Iakovlev)
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
@@ -44,8 +46,6 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | - | - | [2021-Project85](https://github.com/intelligent-Systems-Phystech/2021-Project85) | [Konstantin Iakovlev](https://github.com/Konstantin-Iakovlev) |
 | - | - | [2021-Project88](https://github.com/intelligent-Systems-Phystech/2021-Project88) | [Andrei Bazhenov](https://github.com/TheRealBazhen) |
 | Sample size estimation | - | [ProjectSampleSize](https://github.com/Intelligent-Systems-Phystech/ProjectSampleSize) | [xtonev(???)](https://github.com/xtonev), [Eugenia Veselova](https://github.com/EugeniaVeselova), [Valeriy Markin](https://github.com/ValeriyMarkin), [Tamaz Gadaev](https://github.com/ttgadaev)
-| - | Аппроксимации FMRI-снимков мозга по просмотренному видоряду | [Link](https://github.com/intsystems/CreationOfIntelligentSystems_video_fMRI) | [Polina Barabanshikova](https://github.com/pollinab), [Dmitriy Protasov](https://github.com/Vosatorp), [Nikita Shulgan](https://github.com/NikitaShulgan)
-| fMRI data approximation from sound stream  | - | [Link](https://github.com/intsystems/CreationOfIntelligentSystems_sound_fMRI) | [Gregory Ksenofontov](https://github.com/gregkseno), [Sergey Skorik](https://github.com/Skorik99), [Konstantin Yakovlev](https://github.com/Konstantin-Iakovlev)
 
 
 ## 2020
