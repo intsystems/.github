@@ -44,6 +44,10 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | - | - | [2021-Project85](https://github.com/intelligent-Systems-Phystech/2021-Project85) | [Konstantin Iakovlev](https://github.com/Konstantin-Iakovlev) |
 | - | - | [2021-Project88](https://github.com/intelligent-Systems-Phystech/2021-Project88) | [Andrei Bazhenov](https://github.com/TheRealBazhen) |
 | Sample size estimation | - | [ProjectSampleSize](https://github.com/Intelligent-Systems-Phystech/ProjectSampleSize) | [xtonev(???)](https://github.com/xtonev), [Eugenia Veselova](https://github.com/EugeniaVeselova), [Valeriy Markin](https://github.com/ValeriyMarkin), [Tamaz Gadaev](https://github.com/ttgadaev)
+| - | Аппроксимации FMRI-снимков мозга по просмотренному видоряду | [Link](https://github.com/intsystems/CreationOfIntelligentSystems_video_fMRI) | [Polina Barabanshikova](https://github.com/pollinab), [Dmitriy Protasov](https://github.com/Vosatorp), [Nikita Shulgan](https://github.com/NikitaShulgan)
+| fMRI data approximation from sound stream  | - | [Link](https://github.com/intsystems/CreationOfIntelligentSystems_sound_fMRI) | [Gregory Ksenofontov](https://github.com/gregkseno), [Sergey Skorik](https://github.com/Skorik99), [Konstantin Yakovlev](https://github.com/Konstantin-Iakovlev)
+
+
 ## 2020
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
