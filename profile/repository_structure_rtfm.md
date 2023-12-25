@@ -33,12 +33,10 @@ If your repository falls under more than one type, you are most likely doing som
 5. Please change the status of your research project in the table according to your actual research status timely. 
 
 ## Repository for graduate works
-1. Create repository.
-2. Write short description, Russian description is necessary, English description is optional.
-3. Add topic "graduate" into to your repository topics.
-4. Add topic "bachelor", "master" or "phd" into your repository topics.
-5. Fill the project into [table](reps_students.md).   The repositories are sorted in alphabetical order of the student first name. 
+* Details of the creation of the repository appear every semester on the department’s channels.
+* You can use [previous year repositories](https://intsystems.github.io/materials/nir/) as examples.
 
+  
 ## Repository with examples and templates
 1. Create repository.
 2. Write short description, English description is necessary, Russian description is optional.
