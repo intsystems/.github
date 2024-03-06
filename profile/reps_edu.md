@@ -2,6 +2,7 @@
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
+| Accelerated zero-order methods for smooth convex stochastic optimization | Ускоренные методы нулевого порядка в гладкой выпуклой стохастической оптимизации | [2024-Project-160](https://github.com/intsystems/2024-Project-160) | [Fanis Khafizov](https://github.com/fanis-khafizov) |
 | Multiply learning in recommender systems | Многократное обучение в рекомендательных системах | [2024-Project-144](https://github.com/intsystems/2024-Project-144) | [Liliya Prozorova](https://github.com/lilyaprozorova), [Nickolai Krekhov](https://github.com/tasticolly) |
 
 ## 2023
