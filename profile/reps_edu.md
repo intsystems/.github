@@ -2,6 +2,7 @@
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
+| Multiply learning in recommender systems | Многократное обучение в рекомендательных системах | [2024-Project-144](https://github.com/intsystems/2024-Project-144) | [Nickolai Krekhov](https://github.com/tasticolly) |
 
 ## 2023
 Repository description|Repository description (Russian)|Link| Contributors |
