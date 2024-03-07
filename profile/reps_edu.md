@@ -10,6 +10,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Classification of products according to OKPD 2 codes. | Классификация товаров по ОКПД 2 кодам | [2024-Project-142](https://github.com/intsystems/2024-Project-142) | [Firsov Sergey](https://github.com/Schaft-s) |
 | Identification of the relationship between labels using an algorithm based on self-attention for temporal sets prediction. | Исследуются взаимосвязь между метками с использованием алгоритма, основанного на собственном внимании для задачи предсказания временных наборов. | [2024-Project-155](https://github.com/intsystems/2024-Project-155) | [Boeva Galina](https://github.com/Gaechka777) |
 | Effects of hyperparameters on the accuracy of the algorithm for aggregating expert forecasts with a variable number of experts | Изучение влияния гиперпараметров на точность алгоритма агрегирования экспертных прогнозов с переменным числом экспертов. | [2024-Project-125](https://github.com/sergiokb/2024-Project-125) | [Kunin-Bogoiavlenskii Sergey](https://github.com/sergiokb) |
+| Low-Rank Decomposition Methods in Distributed and Federated Learning | Методы малоранговых разложений в распределенном и федеративном обучении | [2024-Project-161](https://github.com/intsystems/2024-Project-161) | [Rebrikov Aleksei](https://github.com/NoblFriend) |
 
 ## 2023
 Repository description|Repository description (Russian)|Link| Contributors |
