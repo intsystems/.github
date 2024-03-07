@@ -3,6 +3,7 @@
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
 | Accelerated zero-order methods for smooth convex stochastic optimization | Ускоренные методы нулевого порядка в гладкой выпуклой стохастической оптимизации | [2024-Project-160](https://github.com/intsystems/2024-Project-160) | [Fanis Khafizov](https://github.com/fanis-khafizov) |
+| Decoding brain signals into audio | Декодирования сигналов головного мозга в аудиоданные | [2024-Project-154](https://github.com/intsystems/2024-Project-154) | [Muhammadsharif Nabiev](https://github.com/mikhmed-nabiev) | 
 | Multiply learning in recommender systems | Многократное обучение в рекомендательных системах | [2024-Project-144](https://github.com/intsystems/2024-Project-144) | [Liliya Prozorova](https://github.com/lilyaprozorova), [Nickolai Krekhov](https://github.com/tasticolly) |
 | Neural SDE | Применение фазовых траекторий СДУ для предсказания аномалий во временных рядах | [2024-Project-157](https://github.com/intsystems/2024-Project-157) | [Papay Ivan](https://github.com/papayiv) |
 | Paper investigates the optimal metric between highly volatile time series with the idea to make a forecast in the space of pair distances. | Статья посвящена погружению временных рядов с высокой волатильностью в метрическое пространство с идеей прогнозирования в пространстве попарных расстояний. | [2024-Project-153](https://github.com/intsystems/2024-Project-153) | [Eynullayev Altay](https://github.com/Chessmatus) |
