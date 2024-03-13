@@ -12,6 +12,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 |Influence of hyperparameters on aggregating predictions of unknown number of experts | Изучение влияния гиперпараметров на точность алгоритма агрегирования экспертных прогнозов с переменным числом экспертов. | [2024-Project-125](https://github.com/sergiokb/2024-Project-125) | [Kunin-Bogoiavlenskii Sergey](https://github.com/sergiokb) |
 | Low-Rank Decomposition Methods in Distributed and Federated Learning | Методы малоранговых разложений в распределенном и федеративном обучении | [2024-Project-161](https://github.com/intsystems/2024-Project-161) | [Rebrikov Aleksei](https://github.com/NoblFriend) |
 | Optimal Gradient Methods with Relative Inexactness | Оптимальные методы оптимизации первого порядка с зашумленными градиентами | [2024-Project-156](https://github.com/intsystems/2024-Project-156) | [Rubtsov Denis](https://github.com/RubtsovDN) |
+| Сreating personalized images | Создание персонализированных изображений | [2024-Project-145](https://github.com/intsystems/2024-Project-145) | [Stepanov Ilia](https://github.com/ILIAHHne63) |
 
 ## 2023
 Repository description|Repository description (Russian)|Link| Contributors |
