@@ -13,6 +13,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Low-Rank Decomposition Methods in Distributed and Federated Learning | Методы малоранговых разложений в распределенном и федеративном обучении | [2024-Project-161](https://github.com/intsystems/2024-Project-161) | [Rebrikov Aleksei](https://github.com/NoblFriend) |
 | Optimal Gradient Methods with Relative Inexactness | Оптимальные методы оптимизации первого порядка с зашумленными градиентами | [2024-Project-156](https://github.com/intsystems/2024-Project-156) | [Rubtsov Denis](https://github.com/RubtsovDN) |
 | Сreating personalized images | Создание персонализированных изображений | [2024-Project-145](https://github.com/intsystems/2024-Project-145) | [Stepanov Ilia](https://github.com/ILIAHHne63) |
+| Continuous time in BCI neural interface construction | Непрерывное время при построении нейроинтерфейса BCI | [2024-Project-145](https://github.com/intsystems/2024-Project-118) | [Sobolevsky Fedor](https://github.com/TeoSable) |
 
 ## 2023
 Repository description|Repository description (Russian)|Link| Contributors |
