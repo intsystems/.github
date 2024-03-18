@@ -15,6 +15,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Сreating personalized images | Создание персонализированных изображений | [2024-Project-145](https://github.com/intsystems/2024-Project-145) | [Stepanov Ilia](https://github.com/ILIAHHne63) |
 | Continuous time in BCI neural interface construction | Непрерывное время при построении нейроинтерфейса BCI | [2024-Project-145](https://github.com/intsystems/2024-Project-118) | [Fedor Sobolevsky](https://github.com/TeoSable) |
 | Undersampled MRI reconstruction | Восстановление МРТ изображений по неполной выборке | [2024-Project-163](https://github.com/intsystems/2024-Project-163) | [Bair Mikhailov](https://github.com/MikhailovBair) |
+| Adaptive sampling methods using diffusion models | Адаптивные методы генерации с использованием диффузионных моделей | [2024-Project-162](https://github.com/intsystems/2024-Project-162) | [Marat Khusainov](https://github.com/maratkhusainov) |
 
 ## 2023
 Repository description|Repository description (Russian)|Link| Contributors |
