@@ -21,7 +21,7 @@ If your repository falls under more than one type, you are most likely doing som
 ## Repository for educational project
 1. Create repository.
 2. Write short description, both in Russian and English.
-3. Add topic "edu_project" into to your repository topics.
+3. Add topic "edu-project" into to your repository topics.
 4. Fill the project into [table](reps_edu.md).   The repositories are sorted in alphabetical order. 
 
 
