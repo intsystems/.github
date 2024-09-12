@@ -9,10 +9,10 @@ The repository contains research and educational projects.
 ## Repository info
 *<sub><sup>Before creating new repository, please read [this friendly manual](profile/repository_structure_rtfm.md).</sub></sup>*
 
-* [Educational courses](profile/reps_courses.md)
-* [Educational projects](profile/reps_edu.md)
+* [Educational courses](reps_courses.md)
+* [Educational projects](reps_edu.md)
 * [Graduation works](https://intsystems.github.io/materials/nir/)
-* [Graduation works (deprecated)](profile/reps_students.md)
-* [Research projects](profile/reps_research.md)
-* [Examples and templates](profile/reps_examples.md)
-* [Other repositories](profile/reps_other.md)
+* [Graduation works (deprecated)](reps_students.md)
+* [Research projects](reps_research.md)
+* [Examples and templates](reps_examples.md)
+* [Other repositories](reps_other.md)
