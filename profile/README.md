@@ -7,7 +7,7 @@ The repository contains research and educational projects.
 * Mail: research.n.math(at)gmail.com
 
 ## Repository info
-*<sub><sup>Before creating new repository, please read [this friendly manual](profile/repository_structure_rtfm.md).</sub></sup>*
+*Before creating new repository, please read [this friendly manual](repository_structure_rtfm.md)*
 
 * [Educational courses](reps_courses.md)
 * [Educational projects](reps_edu.md)
