@@ -20,6 +20,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Undersampled MRI reconstruction | Восстановление МРТ изображений по неполной выборке | [2024-Project-163](https://github.com/intsystems/2024-Project-163) | [Bair Mikhailov](https://github.com/MikhailovBair) |
 | Adaptive sampling methods using diffusion models | Адаптивные методы генерации с использованием диффузионных моделей | [2024-Project-162](https://github.com/intsystems/2024-Project-162) | [Marat Khusainov](https://github.com/maratkhusainov) |
 | Representation learning for collections of data | Методы составления представлений коллекций данных | [2024-Project-164](https://github.com/intsystems/2024-project-164) | [Parviz Karimov](https://github.com/IPPK93) |
+| Riemannian Geometry and Graph Laplacian metric models  |  - | [Riemannian Geometry and Graph Laplacian metric models](https://github.com/intsystems/CreationOfIntelligentSystems_RiemannianGeometry) | [Parviz Karimov](https://github.com/IPPK93), [Valentina Smith](https://github.com/valentinafom) |
 
 ## 2023
 Repository description|Repository description (Russian)|Link| Contributors |
