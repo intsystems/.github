@@ -4,6 +4,7 @@ The repository contains research and educational projects.
 ## Contact information 
 * [Our site](http://intsystems.github.io)
 * [Department site (Russian version)](http://machinelearning.ru)
+* [Hugging face](https://huggingface.co/intsystems)
 * Mail: research.n.math(at)gmail.com
 
 ## Repository info
