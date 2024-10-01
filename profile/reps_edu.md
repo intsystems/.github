@@ -2,6 +2,7 @@
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
+|Implementation of Bayesian NN compression technics  | Имплементация байесовских методов сжатия нейронных сетей | [BMM 2024 BayesComp](https://github.com/intsystems/bayes_deep_compression) | [Semkin Kirill](https://github.com/sem-k32) [Latypov Ilgam](https://github.com/xxamxam) [Terentev Alexander](https://github.com/lopate) [Nikita Mashalov]() |
 | Accelerated zero-order methods for smooth convex stochastic optimization | Ускоренные методы нулевого порядка в гладкой выпуклой стохастической оптимизации | [2024-Project-160](https://github.com/intsystems/2024-Project-160) | [Fanis Khafizov](https://github.com/fanis-khafizov) |
 | Decoding brain signals into audio | Декодирования сигналов головного мозга в аудиоданные | [2024-Project-154](https://github.com/intsystems/2024-Project-154) | [Muhammadsharif Nabiev](https://github.com/mikhmed-nabiev) | 
 | Multiply learning in recommender systems | Многократное обучение в рекомендательных системах | [2024-Project-144](https://github.com/intsystems/2024-Project-144) | [Liliya Prozorova](https://github.com/lilyaprozorova), [Nickolai Krekhov](https://github.com/tasticolly) |
