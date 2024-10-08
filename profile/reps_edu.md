@@ -2,6 +2,7 @@
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
+| Graphical Model Generation | Генерация графических моделей с помощью LLM | [GMG-BMM](https://github.com/intsystems/graphical-model-generation) | [Ernest Nasyrov](https://github.com/2001092236)|
 | Optimization operators as evidence estimators | Библиотека для ELBO | [SWAG-BMM](https://github.com/intsystems/SWAG-BMM) | [Andrei Semenov](https://github.com/Andron00e), [Alexander Shestakov](https://github.com/alshestt), [Dmitry Bylinkin](https://github.com/lxstsvnd), [Vladimir Solodkin](https://github.com/BungaBonga) |
 |Implementation of Bayesian NN compression technics  | Имплементация байесовских методов сжатия нейронных сетей | [BMM 2024 BayesComp](https://github.com/intsystems/bayes_deep_compression) | [Semkin Kirill](https://github.com/sem-k32) [Latypov Ilgam](https://github.com/xxamxam) [Terentev Alexander](https://github.com/lopate) [Nikita Mashalov]() |
 | Accelerated zero-order methods for smooth convex stochastic optimization | Ускоренные методы нулевого порядка в гладкой выпуклой стохастической оптимизации | [2024-Project-160](https://github.com/intsystems/2024-Project-160) | [Fanis Khafizov](https://github.com/fanis-khafizov) |
