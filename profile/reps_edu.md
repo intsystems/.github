@@ -2,6 +2,7 @@
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
+| MDL for language model evaluation | MDL для оценивания языковых моделей | [MDL-BMM](https://github.com/intsystems/MDL_for_Language_Models) | [Anastasia Voznyuk](https://github.com/natriistorm), [Nikita Okhotnikov](https://github.com/Wayfarer123), [Anna Grebennikova](), [Yuri Sapronov](https://github.com/Sapr7) |
 | Graphical Model Generation | Генерация графических моделей с помощью LLM | [GMG-BMM](https://github.com/intsystems/graphical-model-generation) | [Ernest Nasyrov](https://github.com/2001092236)|
 | Optimization operators as evidence estimators | Библиотека для ELBO | [SWAG-BMM](https://github.com/intsystems/SWAG-BMM) | [Andrei Semenov](https://github.com/Andron00e), [Alexander Shestakov](https://github.com/alshestt), [Dmitry Bylinkin](https://github.com/lxstsvnd), [Vladimir Solodkin](https://github.com/BungaBonga) |
 |Implementation of Bayesian NN compression technics  | Имплементация байесовских методов сжатия нейронных сетей | [BMM 2024 BayesComp](https://github.com/intsystems/bayes_deep_compression) | [Semkin Kirill](https://github.com/sem-k32) [Latypov Ilgam](https://github.com/xxamxam) [Terentev Alexander](https://github.com/lopate) [Nikita Mashalov]() |
