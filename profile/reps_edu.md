@@ -1,4 +1,9 @@
 # Educational projects
+## 2025
+Repository description | Repository description (Russian) | Link | Contributors |
+|--- | --- | --- | --- |
+| HippoParams: Gradient-Based Hyperparameter Optimization | HippoParams: библиотека для градиентной оптимизации гиперпараметров | [hippoparams](https://github.com/intsystems/hippoparams) | [Daniil Dorin](https://github.com/DorinDaniil), [Igor Ignashin](https://github.com/ThunderstormXX), [Nikita Kiselev](https://github.com/kisnikser), [Andrey Veprikov](https://github.com/Vepricov) |
+
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
