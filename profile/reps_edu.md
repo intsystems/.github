@@ -3,6 +3,7 @@
 Repository description | Repository description (Russian) | Link | Contributors |
 |--- | --- | --- | --- |
 | HippoTrainer: Gradient-Based Hyperparameter Optimization | HippoTrainer: библиотека для градиентной оптимизации гиперпараметров | [hippotrainer](https://github.com/intsystems/hippotrainer) | [Daniil Dorin](https://github.com/DorinDaniil), [Igor Ignashin](https://github.com/ThunderstormXX), [Nikita Kiselev](https://github.com/kisnikser), [Andrey Veprikov](https://github.com/Vepricov) |
+| Sign Stochastic Gradient Descent with Heavy-Tailed Noise and Differential Privacy | Знаковый стохастический градиентный спуск с распределением шума типа "тяжёлые хвосты" и гарантией дифференциальной приватности | [Sign SGD + Heavy-Tails + DP](https://github.com/alexlegeartis/Sign-SGD-and-Differential-Privacy) | [Alexey Kravatksy](https://github.com/alexlegeartis) |
 
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
