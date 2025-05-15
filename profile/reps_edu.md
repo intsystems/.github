@@ -11,7 +11,7 @@ Repository description | Repository description (Russian) | Link | Contributors 
 |Surrogate assisted diversity estimation in Neural Ensemble Search| Постороение ансамбля нейросетей при помощи суррогатной функции | [Surrogate assited NES](https://github.com/intsystems/predicator-function-for-neural-networks) | [Udeneev Alexandr](https://github.com/Demoren1), [Babkin Petr](https://github.com/petr-parker), Oleg Bakhteev|
 |LLMs Consistency in Describing and Scoring Personality|Согласованность ЛЛМ в оценках личности| [LLM Consistency](https://github.com/intsystems/LLM-Consistency) | [Danila Chernousov](https://github.com/Chernousovdv), Ivan Novikov, Yury Maximov| 
 | Detecting Manual Alterations in Biological Image Data Using Contrastive Learning and Pairwise Image Comparison | Детекция поддельных биологических изображений путем определения похожести | [BiodataAlterationDetection](https://github.com/intsystems/2025-Project-170) | [Georgiy Nekhoroshkov](https://github.com/georgens2004) | 
-
+| Zeroth-order optimization for LLM Fine-Tuning | Оптимизация нулевого порядка для дообучения БЯМ | [Zeroth-order optimization for LLM Fine-Tuning](https://github.com/evseevgrv/ZO-LLM-FineTuning/) | [Evseev Grigoriy](https://github.com/evseevgrv), Andrey Veprikov
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
