@@ -10,6 +10,7 @@ Repository description | Repository description (Russian) | Link | Contributors 
 |BoLID: Body Lightning ID Diffusion| BoLID: свободная генерация персонализированных изображений по текстовому описанию | [BoLID](https://github.com/intsystems/2025-project-DiffModels) | [Kazachkov Daniil](https://github.com/wolkendolf) |
 |Surrogate assisted diversity estimation in Neural Ensemble Search| Постороение ансамбля нейросетей при помощи суррогатной функции | [Surrogate assited NES](https://github.com/intsystems/predicator-function-for-neural-networks) | [Udeneev Alexandr](https://github.com/Demoren1), [Babkin Petr](https://github.com/petr-parker), Oleg Bakhteev|
 |LLMs Consistency in Describing and Scoring Personality|Согласованность ЛЛМ в оценках личности| [LLM Consistency](https://github.com/intsystems/LLM-Consistency) | [Danila Chernousov](https://github.com/Chernousovdv), Ivan Novikov, Yury Maximov| 
+| Detecting Manual Alterations in Biological Image Data Using Contrastive Learning and Pairwise Image Comparison | Детекция поддельных биологических изображений путем определения похожести | [BiodataAlterationDetection](https://github.com/intsystems/2025-Project-170) | [Georgiy Nekhoroshkov](https://github.com/georgens2004) | 
 
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
