@@ -33,7 +33,7 @@ If your repository falls under more than one type, you are most likely doing som
 5. Please change the status of your research project in the table according to your actual research status timely. 
 
 ## Repository for graduate works
-* Add topics "graduate", and one of "master", "bachelor" to tour repository
+* Add topics "graduate", and one of "master", "bachelor","phd" to your repository
 * Details of the creation of the repository appear every semester on the department’s channels.
 * You can use [previous year repositories](https://intsystems.github.io/materials/nir/) as examples.
 
