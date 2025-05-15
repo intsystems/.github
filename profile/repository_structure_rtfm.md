@@ -34,8 +34,8 @@ If your repository falls under more than one type, you are most likely doing som
 5. Please change the status of your research project in the table according to your actual research status timely. 
 
 ## Repository for graduate works
-1. All the graduate repositories MUST be saved in the organization
-2. Create or move repository
+1. All the graduate repositories MUST be saved in the organization (at least the actual for the report version)
+2. Create, move or fork the repository from your profile
 3. Add topics "graduate", and one of "master", "bachelor","phd" to your repository
 4. Put the link of the repo into  [Report page](https://intsystems.github.io/materials/nir/).
 
