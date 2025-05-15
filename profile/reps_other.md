@@ -5,6 +5,7 @@
 | Profile repository | --- | Repository with organlization header | [.github](https://github.com/Intelligent-Systems-Phystech/.github) | [Oleg Bakhteev](github.com/bahleg)
 | Site repository| --- | Repository with [the organization site](https://intelligent-systems-phystech.github.io) | [intelligent-systems-phystech.github.io](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io) | [Andrii Hraboviy](https://github.com/andriygav) |
 | Department data| --- | Slides, plots, crawlers for dep. presentation| [Department data](https://github.com/Intelligent-Systems-Phystech/dept_data) | [Oleg Bakhteev](github.com/bahleg)
+| Task and issues | --- | Tasks and issues | [Link](https://github.com/intsystems/intsys_tasks) | [Oleg Bakhteev](github.com/bahleg)
 ## Unsorted repositories
 |Name| Name (Russian) | Description | Link | Maintainers |
 | --- | --- | --- | --- | --- |
