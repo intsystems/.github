@@ -13,7 +13,7 @@ Repository description | Repository description (Russian) | Link | Contributors 
 |LLMs Consistency in Describing and Scoring Personality|Согласованность ЛЛМ в оценках личности| [LLM Consistency](https://github.com/intsystems/LLM-Consistency) | [Danila Chernousov](https://github.com/Chernousovdv), Ivan Novikov, Yury Maximov| 
 | Detecting Manual Alterations in Biological Image Data Using Contrastive Learning and Pairwise Image Comparison | Детекция поддельных биологических изображений путем определения похожести | [BiodataAlterationDetection](https://github.com/intsystems/2025-Project-170) | [Georgiy Nekhoroshkov](https://github.com/georgens2004) | 
 | Zeroth-order optimization for LLM Fine-Tuning | Оптимизация нулевого порядка для дообучения БЯМ | [Zeroth-order optimization for LLM Fine-Tuning](https://github.com/evseevgrv/ZO-LLM-FineTuning/) | [Evseev Grigoriy](https://github.com/evseevgrv), Andrey Veprikov
-|Neural approaches to the churn prediction problem | Нейросетевые подходы к решению задачи оттока абонентов | [Нейросетевые подходы к решению задачи оттока абонентов](https://github.com/evseevgrv/ZO-LLM-FineTuning/) | Тимур Джумакаев
+|Neural approaches to the churn prediction problem | Нейросетевые подходы к решению задачи оттока абонентов | [Нейросетевые подходы к решению задачи оттока абонентов](https://github.com/intsystems/2025-Project-Churn) | Тимур Джумакаев
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
