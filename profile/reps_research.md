@@ -2,6 +2,7 @@
 ## Active projects
 |Project name|Project name (Russian)|Status|Link|External links| Contributors |
 | --- | --- | --- | --- | --- | --- |
+| A method for text tree similarity estimation using tree edit distance and language models | Метод оценки сходства текстовых деревьев с помощью расстояния редактирования и языковых моделей | Active (part of graduate work) | [Github](https://github.com/intsystems/text-tree-distance) | - | [Fedor Sobolevsky](https://github.com/TeoSable), [Konstantin Vorontsov](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | 
 
 
 
