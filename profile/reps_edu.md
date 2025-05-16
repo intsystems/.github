@@ -17,6 +17,7 @@ Repository description | Repository description (Russian) | Link | Contributors 
 | Convergence of the loss function surface in transformer neural network architectures | Сходимость поверхности функции потерь в трансформерных архитектурах нейронных сетей | [2025-Project-182](https://github.com/intsystems/2025-Project-182) | [Egor Petrov](https://github.com/modernTalker), [Nikita Kiselev](https://github.com/kisnikser) |
 | Neural Networks Loss Landscape Convergence in Hessian Low-Dimensional Space | Сходимость поверхности функции потерь в низкоразмерном подпространстве Гессиана | [2025-Project-183](https://github.com/intsystems/2025-Project-183) | [Artem Nikitin](https://github.com/NTheme), [Nikita Kiselev](https://github.com/kisnikser) |
 | Uncertainty Estimation Methods for Countering Attacks on Machine-Generated Text Detectors | Использование методов подсчета неопределенности для борьбы с атаками на детекторы машинно-сгенерированного текста | [2025-Project-176](https://github.com/intsystems/2025-Project-176) | [Valeriy Levanov](https://github.com/MonosUna), [Anastasia Voznyuk](https://github.com/natriistorm) |
+| Comparative Analysis of Data-Driven Approaches for Hydrological Forecasting | Сравнение подходов на основе данных для гидрологического прогнозирования | [2025-Project-188](https://github.com/intsystems/2025-Project-188) | [Eldar Khuzin](https://github.com/khuzin-e) |
 
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
