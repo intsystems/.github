@@ -20,6 +20,7 @@ Repository description | Repository description (Russian) | Link | Contributors 
 | Uncertainty Estimation Methods for Countering Attacks on Machine-Generated Text Detectors | Использование методов подсчета неопределенности для борьбы с атаками на детекторы машинно-сгенерированного текста | [2025-Project-176](https://github.com/intsystems/2025-Project-176) | [Valeriy Levanov](https://github.com/MonosUna), [Anastasia Voznyuk](https://github.com/natriistorm) |
 | Comparative Analysis of Data-Driven Approaches for Hydrological Forecasting | Сравнение подходов на основе данных для гидрологического прогнозирования | [2025-Project-188](https://github.com/intsystems/2025-Project-188) | [Eldar Khuzin](https://github.com/khuzin-e) |
 | Bandits in Query Selection | Бандиты в Query Selection | [QueryOptimizationBandits](https://github.com/intsystems/2024-Project-QueryOptimizationBandits.git) | [Vladimir Shestakov](https://github.com/HrpperCroFT) |
+| Adaptive Loss Scaling for Label Correction | Адаптивное масштабирование функции потерь для исправления меток | [2025-Project-175](https://github.com/intsystems/2025-Project-175) | [Kirill Pupkov](https://github.com/Kirill2187) |
 
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
