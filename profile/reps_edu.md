@@ -52,6 +52,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Study of deep neural network optimization methods on tabular data | Исследование методов оптимизации глубоких нейронных сетей для табличных данных | [TabularDL](https://github.com/intsystems/CreationOfIntelligentSystems_TabularDL) | [Andrey Veprikov](https://github.com/Vepricov), [Igor Ignashin](https://github.com/ThunderstormXX), [Ilham Latypov](https://github.com/xxamxam), [Yuri Sapronov](https://github.com/Sapr7) |
 | Prompting model for LLM | Исследование унииверсальных промптов для LLM | [Prompting model for LLM](https://github.com/intsystems/Prompting-model-for-LLM) | [Matvei Kreinin](https://github.com/kreininmv), [Maria Nikitina](https://github.com/NikitinaMaria), [Petr Babkin](https://github.com/petr-parker), [Irina Zabaryanskaya]() |
 | Sampling from various distributions using reparametrization trick. | Сэмплирование из различных распределений с использованием IRT. | [implitic-reparametrization-trick](https://github.com/intsystems/implitic-reparametrization-trick/tree/main) | [Matvei Kreinin](https://github.com/kreininmv), [Maria Nikitina](https://github.com/NikitinaMaria), [Petr Babkin](https://github.com/petr-parker), [Irina Zabaryanskaya]() |
+| - | Универсальные методы для стохастических вариационных неравенств | [link](https://github.com/intsystems/2024-Project-146) | Anton Klimza |
 
 ## 2023
 Repository description|Repository description (Russian)|Link| Contributors |
