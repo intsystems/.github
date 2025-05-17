@@ -18,6 +18,7 @@ Repository description | Repository description (Russian) | Link | Contributors 
 | Neural Networks Loss Landscape Convergence in Hessian Low-Dimensional Space | Сходимость поверхности функции потерь в низкоразмерном подпространстве Гессиана | [2025-Project-183](https://github.com/intsystems/2025-Project-183) | [Artem Nikitin](https://github.com/NTheme), [Nikita Kiselev](https://github.com/kisnikser) |
 | Uncertainty Estimation Methods for Countering Attacks on Machine-Generated Text Detectors | Использование методов подсчета неопределенности для борьбы с атаками на детекторы машинно-сгенерированного текста | [2025-Project-176](https://github.com/intsystems/2025-Project-176) | [Valeriy Levanov](https://github.com/MonosUna), [Anastasia Voznyuk](https://github.com/natriistorm) |
 | Comparative Analysis of Data-Driven Approaches for Hydrological Forecasting | Сравнение подходов на основе данных для гидрологического прогнозирования | [2025-Project-188](https://github.com/intsystems/2025-Project-188) | [Eldar Khuzin](https://github.com/khuzin-e) |
+| Bandits in Query Selection | Бандиты в Query Selection | [QueryOptimizationBandits](https://github.com/intsystems/2024-Project-QueryOptimizationBandits.git) | [Vladimir Shestakov](https://github.com/HrpperCroFT) |
 
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
