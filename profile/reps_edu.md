@@ -21,6 +21,7 @@ Repository description | Repository description (Russian) | Link | Contributors 
 | Comparative Analysis of Data-Driven Approaches for Hydrological Forecasting | Сравнение подходов на основе данных для гидрологического прогнозирования | [2025-Project-188](https://github.com/intsystems/2025-Project-188) | [Eldar Khuzin](https://github.com/khuzin-e) |
 | Bandits in Query Selection | Бандиты в Query Selection | [QueryOptimizationBandits](https://github.com/intsystems/2024-Project-QueryOptimizationBandits.git) | [Vladimir Shestakov](https://github.com/HrpperCroFT) |
 | Adaptive Loss Scaling for Label Correction | Адаптивное масштабирование функции потерь для исправления меток | [2025-Project-175](https://github.com/intsystems/2025-Project-175) | [Kirill Pupkov](https://github.com/Kirill2187) |
+Approximation fMRI data from the audio time series|Аппроксимация данных ФМРТ из звукового временного ряда|[2025-Project-172](https://github.com/AnastasiaGerman01/2025-Project-172)|[German Anastasia](https://github.com/AnastasiaGerman01)|
 
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
