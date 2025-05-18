@@ -23,7 +23,7 @@ Repository description | Repository description (Russian) | Link | Contributors 
 | Adaptive Loss Scaling for Label Correction | Адаптивное масштабирование функции потерь для исправления меток | [2025-Project-175](https://github.com/intsystems/2025-Project-175) | [Kirill Pupkov](https://github.com/Kirill2187) |
 Approximation fMRI data from the audio time series|Аппроксимация данных ФМРТ из звукового временного ряда|[2025-Project-172](https://github.com/AnastasiaGerman01/2025-Project-172)|[German Anastasia](https://github.com/AnastasiaGerman01)|
 | Restoring Functional Brain Groups Using Graph Diffusion Models | Восстановление функциональных групп головного мозга с помощью графовых диффузных моделей | [2025-project-159](https://github.com/intsystems/2025-project-159/tree/dev) | [Astakhov Aleksandr](https://github.com/AleksandrAstakhov) |
-| Higher-Order Cross Convergent Mapping for Tensor Time Series | Перекрестное сходящееся отображение высших порядков для тензорных временных рядов | [Github](https://github.com/intsystems/movie_hoccm) | [Fedor Sobolevsky](https://github.com/teosable) |
+| Higher-Order Cross Convergent Mapping for Tensor Time Series | Перекрестное сходящееся отображение высших порядков для тензорных временных рядов | [movie_hoccm](https://github.com/intsystems/movie_hoccm) | [Fedor Sobolevsky](https://github.com/teosable) |
 
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
