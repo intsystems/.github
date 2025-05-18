@@ -19,7 +19,7 @@
 | Dimensionality reduction for time series decoding and forecasting problems | Снижение размерности в задачах декодирования временных рядов и прогнозирования | In journal (Computer science and engineering) |  [2017-Isachenko-PLS](https://github.com/Intelligent-Systems-Phystech/2017-Isachenko-PLS) | [Article](http://dpi-proceedings.com/index.php/dtcse/article/view/27940) | [Roman Isachenko](https://github.com/r-isachenko), Maria Vladimirova, [Vadim Strijov](https://github.com/Strijov) |
 | Metamodels for complex structured objects classification | Локальные модели для классификации объектов сложной структуры | In conference proceedings (MMPR) | [2017-Isachenko-MetaModels](https://github.com/Intelligent-Systems-Phystech/2017-Isachenko-MetaModels) | [elibrary link](https://elibrary.ru/item.asp?id=32284762) | [Roman Isachenko](https://github.com/r-isachenko), [Ilya Zharikov](https://github.com/ilyazhara), [Artem Bochkarev](https://github.com/ar-bochkarev)
 | Quadratic programming optimization for Newton method | - | In journal | [2018-Isachenko-QPFSNewton](https://github.com/Intelligent-Systems-Phystech/2018-Isachenko-QPFSNewton) | [Article](https://link.springer.com/article/10.1134/S199508021809010X)| [Roman Isachenko](https://github.com/r-isachenko),  [Vadim Strijov](https://github.com/Strijov)
-
+| Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes | - | In journal | [link](https://github.com/intsystems/landscape-hessian) | [paper](https://link.springer.com/article/10.1134/S1064562424601987) | [Nikita Kiselev](https://kisnikser.github.io/) |
 
 ## Postponed projects
 |Project name|Project name (Russian)|Status|Link|External links| Contributors |
