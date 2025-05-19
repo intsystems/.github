@@ -2,7 +2,6 @@
 ## 2025
 Repository description | Repository description (Russian) | Link | Contributors |
 |--- | --- | --- | --- |
-| Automatic Music Transcription | Automatic Music Transcription | [2024-Project-165](https://github.com/intsystems/2024-Project-165) | [Dmitry Protasov](https://github.com/Vosatorp) |
 | HippoTrainer: Gradient-Based Hyperparameter Optimization | HippoTrainer: библиотека для градиентной оптимизации гиперпараметров | [hippotrainer](https://github.com/intsystems/hippotrainer) | [Daniil Dorin](https://github.com/DorinDaniil), [Igor Ignashin](https://github.com/ThunderstormXX), [Nikita Kiselev](https://github.com/kisnikser), [Andrey Veprikov](https://github.com/Vepricov) |
 | Sign Stochastic Gradient Descent with Heavy-Tailed Noise and Differential Privacy | Знаковый стохастический градиентный спуск с распределением шума типа "тяжёлые хвосты" и гарантией дифференциальной приватности | [Sign SGD + Heavy-Tails + DP](https://github.com/alexlegeartis/Sign-SGD-and-Differential-Privacy) | [Alexey Kravatksy](https://github.com/alexlegeartis) |
 | Sign operator for $(L_0, L_1)$ smooth optimization under Heavy-Tailed Noise| Исследование знаковых градиентных методов оптимиации с условиями $(L_0, L_1)$-гладкости функции и шумом с "тяжелыми хвостами" | [Sign-based methods in L0L1 with Heavy-Tailes](https://github.com/intsystems/Sign-for-L0L1-smooth-opt) | [Mark Ikonnikov](https://github.com/makemebright), [Nikita Kornilov](https://github.com/Jhomanik)|
@@ -30,6 +29,7 @@ Approximation fMRI data from the audio time series|Аппроксимация д
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
+| Automatic Music Transcription | Automatic Music Transcription | [2024-Project-165](https://github.com/intsystems/2024-Project-165) | [Dmitry Protasov](https://github.com/Vosatorp) |
 | MDL for language model evaluation | MDL для оценивания языковых моделей | [MDL-BMM](https://github.com/intsystems/MDL_for_Language_Models) | [Anastasia Voznyuk](https://github.com/natriistorm), [Nikita Okhotnikov](https://github.com/Wayfarer123), [Anna Grebennikova](), [Yuri Sapronov](https://github.com/Sapr7) |
 | Graphical Model Generation | Генерация графических моделей с помощью LLM | [GMG-BMM](https://github.com/intsystems/graphical-model-generation) | [Ernest Nasyrov](https://github.com/2001092236)|
 | Optimization operators as evidence estimators | Библиотека для ELBO | [SWAG-BMM](https://github.com/intsystems/SWAG-BMM) | [Andrei Semenov](https://github.com/Andron00e), [Alexander Shestakov](https://github.com/alshestt), [Dmitry Bylinkin](https://github.com/lxstsvnd), [Vladimir Solodkin](https://github.com/BungaBonga) |
