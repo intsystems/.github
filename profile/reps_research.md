@@ -35,3 +35,5 @@ Concordand neural architecture search with model complexity control | Выбор
 | Sample Size Uncertainty |  - | Postponed | [SampleSizeUncertainty](https://github.com/Intelligent-Systems-Phystech/SampleSizeUncertainty) | - |  [Andrii Hraboviy](https://github.com/andriygav)
 | Weight Agnostic Neural Networks with Structural Metrics modification | - | Postponed | [WeightAgnosticNN](https://github.com/Intelligent-Systems-Phystech/WeightAgnosticNN) | - | D. Skachkov, [Makhmood Sodikov](https://github.com/MakhmoodSodikov), [Vadim Strijov](https://github.com/Strijov), [Radoslav Neychev](https://github.com/neychev)]|
 | BCI Lib | - | Postponed |  [Lib](https://github.com/intsystems/bci-ml) | - | [Andrii Hraboviy](https://github.com/andriygav)
+| Uncertainty quantification of NNs | Анализ неопределенности выхода классификационной нейросети | Postponed |  [project_link](https://github.com/intsystems/uncertainty_quantification_2024) | - | [Ernest Nasyrov](https://github.com/2001092236)
+
