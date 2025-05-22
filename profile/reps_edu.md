@@ -25,6 +25,7 @@ Approximation fMRI data from the audio time series|Аппроксимация д
 | Restoring Functional Brain Groups Using Graph Diffusion Models | Восстановление функциональных групп головного мозга с помощью графовых диффузных моделей | [2025-project-159](https://github.com/intsystems/2025-project-159/tree/dev) | [Astakhov Aleksandr](https://github.com/AleksandrAstakhov) |
 | Higher-Order Cross Convergent Mapping for Tensor Time Series | Перекрестное сходящееся отображение высших порядков для тензорных временных рядов | [movie_hoccm](https://github.com/intsystems/movie_hoccm) | [Fedor Sobolevsky](https://github.com/teosable) |
 | Investigation of nonstationary and inhomogeneous dynamical systems | Исследование нестационарных и неоднородных динамических систем | [2025-Project-186](https://github.com/intsystems/2025-Project-186) | [Ivan Ilyin](https://github.com/evfrpol) |
+| Robust Detection of AI-Generated Images | Робастый метод для детекции машинно-сгенерированных изображений | [2025-Project-171](https://github.com/kilinkarov/2025-Project-171) | [Kilinkarov Georgii](https://github.com/kilinkarov) |
 
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
