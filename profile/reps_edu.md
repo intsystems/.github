@@ -26,7 +26,7 @@ Approximation fMRI data from the audio time series|Аппроксимация д
 | Higher-Order Cross Convergent Mapping for Tensor Time Series | Перекрестное сходящееся отображение высших порядков для тензорных временных рядов | [movie_hoccm](https://github.com/intsystems/movie_hoccm) | [Fedor Sobolevsky](https://github.com/teosable) |
 | Investigation of nonstationary and inhomogeneous dynamical systems | Исследование нестационарных и неоднородных динамических систем | [2025-Project-186](https://github.com/intsystems/2025-Project-186) | [Ivan Ilyin](https://github.com/evfrpol) |
 | Robust Detection of AI-Generated Images | Робастый метод для детекции машинно-сгенерированных изображений | [2025-Project-171](https://github.com/intsystems/2025-Project-171) | [Kilinkarov Georgii](https://github.com/kilinkarov) |
-| Metric analysis of deep network space parameters | Метрический анализ пространства параметров глубоких нейронных сетей | [2025-Project-184](https://github.com/artem-lepin-ml/2025-Project-184) | [Artem Lepin](https://github.com/artem-lepin-ml) |
+| Metric analysis of deep network space parameters | Метрический анализ пространства параметров глубоких нейронных сетей | [2025-Project-184](https://github.com/intsystems/2025-Project-184) | [Artem Lepin](https://github.com/artem-lepin-ml) |
 
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
