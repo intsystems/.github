@@ -5,7 +5,6 @@ Repository description | Repository description (Russian) | Link | Contributors 
 | HippoTrainer: Gradient-Based Hyperparameter Optimization | HippoTrainer: библиотека для градиентной оптимизации гиперпараметров | [hippotrainer](https://github.com/intsystems/hippotrainer) | [Daniil Dorin](https://github.com/DorinDaniil), [Igor Ignashin](https://github.com/ThunderstormXX), [Nikita Kiselev](https://github.com/kisnikser), [Andrey Veprikov](https://github.com/Vepricov) |
 | Sign Stochastic Gradient Descent with Heavy-Tailed Noise and Differential Privacy | Знаковый стохастический градиентный спуск с распределением шума типа "тяжёлые хвосты" и гарантией дифференциальной приватности | [Sign SGD + Heavy-Tails + DP](https://github.com/alexlegeartis/Sign-SGD-and-Differential-Privacy) | [Alexey Kravatksy](https://github.com/alexlegeartis) |
 
-| Self-organization effects in recommender systems | Алгоритм выявления эффекта "эхокамеры" в рекомендательной системе  | [EchoChamber Detection](https://github.com/sdem3/2025-Project-174/tree/main) | [Sergei Dementev](https://github.com/sdem3) |
 
 
 | Sign operator for $(L_0, L_1)$ smooth optimization under Heavy-Tailed Noise| Исследование знаковых градиентных методов оптимиации с условиями $(L_0, L_1)$-гладкости функции и шумом с "тяжелыми хвостами" | [Sign-based methods in L0L1 with Heavy-Tailes](https://github.com/intsystems/Sign-for-L0L1-smooth-opt) | [Mark Ikonnikov](https://github.com/makemebright), [Nikita Kornilov](https://github.com/Jhomanik)|
