@@ -5,6 +5,7 @@
 | A method for text tree similarity estimation using tree edit distance and language models | Метод оценки сходства текстовых деревьев с помощью расстояния редактирования и языковых моделей | Active (part of graduate work) | [Github](https://github.com/intsystems/text-tree-distance) | - | [Fedor Sobolevsky](https://github.com/TeoSable), [Konstantin Vorontsov](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov) | 
 | Position Informed Convolution for Multi-Agent Line Detection  | - | Active (part of graduate work) | [Link](https://github.com/intsystems/position-informed-convolution?tab=readme-ov-file) | - | [Petr Babkin](https://github.com/petr-parker) |
 |  Optimal Autoencoder Structure Selection Using Bayesian Optimization  | Выбор оптимальной структуры автокодировщика с применением методов байесовской оптимизации | Active | [Link](https://github.com/intsystems/BHPO-AE) | - | [Anton Bishuk](https://github.com/ApostolAnt), [Oleg Bakhteev](https://github.com/bahleg) |
+|  Zero-shot structural pruning  | Структурный прунинг за один проход | Active | [Link](https://github.com/intsystems/Zero-shot-structural-pruning) | - | [Maksim Ivanov](https://github.com/pgn55555), [Oleg Bakhteev](https://github.com/bahleg) |
 
 
 ## Finished projects
