@@ -1,4 +1,8 @@
 # Educational projects
+## 2026
+Repository description | Repository description (Russian) | Link | Contributors |
+|--- | --- | --- | --- |
+
 ## 2025
 Repository description | Repository description (Russian) | Link | Contributors |
 |--- | --- | --- | --- |
