@@ -2,7 +2,7 @@
 ## Repository types
 Before creating a new repository, please decide on the type of repository:
 * [Repository for education courses](#repository-for-course)
-* [Repository for educational projects (for example repositories for projects during M1P course)](#repository-for-educational-project)
+* [Repository for educational projects (for example repositories for projects during M1P course)](repository-for-educational-project-m1p-bmm-etc)
 * [Repository for research projects](#repository-for-research-projects)
 * [Repository for student graduate works](#repository-for-graduate-works)
 * [Repositories with examples and templates (examples of neural network scripting, templates for reviews, etc)](#repository-with-examples-and-templates)
