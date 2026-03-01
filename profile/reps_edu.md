@@ -39,6 +39,8 @@ Approximation fMRI data from the audio time series|Аппроксимация д
 | Robust Detection of AI-Generated Images | Робастый метод для детекции машинно-сгенерированных изображений | [2025-Project-171](https://github.com/intsystems/2025-Project-171) | [Kilinkarov Georgii](https://github.com/kilinkarov) |
 | Metric analysis of deep network space parameters | Метрический анализ пространства параметров глубоких нейронных сетей | [2025-Project-184](https://github.com/intsystems/2025-Project-184) | [Artem Lepin](https://github.com/artem-lepin-ml) |
 | Эффекты самоорганизации в рекомендательных системах | [link](https://github.com/intsystems/2025-Project-174) | [Dementiev](https://github.com/sdem3) |
+| Fidelity-Generalization analysis in a setting of multi-teacher knowledge distillation | Анализ качества предсказания и обобщаемости модели в постановке дистилляции с несколькими учителями | [Fidelity-Generalization Multi-teacher Knowledge Distillation](https://github.com/intsystems/CreationOfIntelligentSystems_KD_25) | [Eynullayev Altay](https://github.com/Chessmatus), [Firsov Sergey](https://github.com/Schaft-s), [Nabiev Muhammadsharif](https://github.com/mikhmed-nabiev), [Rubtsov Denis](https://github.com/RubtsovDN) |
+
 
 ## 2024
 Repository description|Repository description (Russian)|Link| Contributors |
