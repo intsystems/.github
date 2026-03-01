@@ -2,6 +2,7 @@
 ## 2026
 Repository description | Repository description (Russian) | Link | Contributors |
 |--- | --- | --- | --- |
+| Short-Horizon Gradient-Based Hyperparameter Optimization | Библиотека short-horizon gradient-based алгоритмов для оптимизации гиперпараметров в высокоразмерных пространствах поиска | [gradhpo](https://github.com/intsystems/gradhpo) | [Eynullayev Altay](https://github.com/Chessmatus), [Rubtsov Denis](https://github.com/RubtsovDN), [Karpeev Gleb](https://github.com/gkarpeev) |
 
 ## 2025
 Repository description | Repository description (Russian) | Link | Contributors |
