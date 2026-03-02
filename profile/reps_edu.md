@@ -2,6 +2,7 @@
 ## 2026
 Repository description | Repository description (Russian) | Link | Contributors |
 |--- | --- | --- | --- |
+| Research on line detection in photographs of handwritten text pages | Иследования детекции строк в фотографиях страниц рукописных текстов | [Project-190](https://github.com/intsystems/2026-Project-190) | [Zabarianskii Aleksandr](https://github.com/BobrZol), [Ksenia Varlamova]() |
 | DataMetaMap | Библиотека, позволяющая представлять датасеты в виде векторных эмбеддингов. Это используется для измерения схожести датасетов и задач, которые они решают | [DataMetaMap](https://github.com/intsystems/DataMetaMap) | [Papay Ivan](https://github.com/papayiv), [Minashkin Vladislav](https://github.com/minashkinvladislav), [Meshkov Vladislav](https://github.com/VseMeshkov), [Stepanov Ilia](https://github.com/ILIAHHne63) |
 | Short-Horizon Gradient-Based Hyperparameter Optimization | Библиотека short-horizon gradient-based алгоритмов для оптимизации гиперпараметров в высокоразмерных пространствах поиска | [gradhpo](https://github.com/intsystems/gradhpo) | [Eynullayev Altay](https://github.com/Chessmatus), [Rubtsov Denis](https://github.com/RubtsovDN), [Karpeev Gleb](https://github.com/gkarpeev) |
 
