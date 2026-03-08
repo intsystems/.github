@@ -45,6 +45,7 @@ Approximation fMRI data from the audio time series|Аппроксимация д
 | Metric analysis of deep network space parameters | Метрический анализ пространства параметров глубоких нейронных сетей | [2025-Project-184](https://github.com/intsystems/2025-Project-184) | [Artem Lepin](https://github.com/artem-lepin-ml) |
 | Эффекты самоорганизации в рекомендательных системах | [link](https://github.com/intsystems/2025-Project-174) | [Dementiev](https://github.com/sdem3) |
 | Fidelity-Generalization analysis in a setting of multi-teacher knowledge distillation | Анализ качества предсказания и обобщаемости модели в постановке дистилляции с несколькими учителями | [Fidelity-Generalization Multi-teacher Knowledge Distillation](https://github.com/intsystems/CreationOfIntelligentSystems_KD_25) | [Eynullayev Altay](https://github.com/Chessmatus), [Firsov Sergey](https://github.com/Schaft-s), [Nabiev Muhammadsharif](https://github.com/mikhmed-nabiev), [Rubtsov Denis](https://github.com/RubtsovDN) |
+| Spatial-temporal Workflow Automation with Generative Agents (SWAGA) | Spatial-temporal Workflow Automation with Generative Agents | [SWAGA [FDA 2025]](https://github.com/intsystems/swaga) | [Daniil Dorin](https://github.com/DorinDaniil), [Igor Ignashin](https://github.com/ThunderstormXX), [Nikita Kiselev](https://github.com/kisnikser), [Andrey Veprikov](https://github.com/Vepricov) |
 
 
 ## 2024
